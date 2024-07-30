@@ -1,7 +1,7 @@
 this is minecraft for school computers that have everything blocked except github
 
 
-
+https://maseyfacey.github.io/masecraft-V.1.8.8/
 
 server codes:
 archmc: wss://mc.arch.lol
